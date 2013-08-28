@@ -1,0 +1,3 @@
+- Create VM and vBox images with dev dependencies (C, C++, Java)
+- Create an OpenBCI vagrant box (as a dev base to keep all dependencies)
+- Create hight level component level diagrams (documentation in ReadTheDocs)
